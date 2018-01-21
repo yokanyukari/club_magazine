@@ -1,4 +1,5 @@
 # 部誌
+[![CircleCI](https://circleci.com/gh/oithxs/club_magazine.svg?style=svg)](https://circleci.com/gh/oithxs/club_magazine)
 
 ## はじめかた
 
