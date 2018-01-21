@@ -212,3 +212,5 @@ TSWLatexianTemp*
 # expex forward references with \gathertags
 *-tags.tex
 
+
+main.pdf
